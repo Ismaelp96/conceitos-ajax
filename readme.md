@@ -1,4 +1,4 @@
-Estudo sobre como utilizar AJAX com fetch, axios, jquery, xmlHttpRequest, fazer upload de arquivo e um SPA simples para carregar o HTML via Ajax.
+Estudo sobre como utilizar AJAX com fetch, axios, jquery, xmlHttpRequest, fazer upload de arquivos e um SPA simples para carregar o HTML via Ajax.
 
 Resumo da da Técnica:
 
